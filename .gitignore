@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+.pytest_cache/
+
+# IDE
+.vscode/
+venv/
+
+
+# OS
+data/
+venv/
+__pycache__/
+.pytest_cache/
